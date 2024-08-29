@@ -1,0 +1,82 @@
+*{margin: 10px;}
+.principal{
+    display: inline-flex;
+    background-color: rgb(6, 77, 53);
+    padding: 20px;
+    width: 1000px;
+    height: 500px;
+    border-radius: 150px;
+}
+
+.padre1{
+    background-color: rgb(15, 105, 75);
+    padding: 20px 0px 0px 20px;
+    margin-right: 150px;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 2000px;
+}
+
+.padre2{
+    background-color: rgb(15, 105, 75);
+    padding: 20px 0px 0px 20px;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 2000px;
+}
+
+.nivel1{
+    background-color: rgb(179, 125, 16);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+.nivel2{
+    background-color: rgb(188, 208, 6);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+.nivel3{
+    background-color: rgb(28, 172, 15);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+.nivel4{
+    background-color: rgb(26, 163, 205);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+.nivel5{
+    background-color: rgb(104, 8, 121);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+.nivel6{
+    background-color: rgb(126, 19, 116);
+    width: 300px;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+    border-radius: 2000px;
+}
+
+h1{
+    text-align: center;
+}
